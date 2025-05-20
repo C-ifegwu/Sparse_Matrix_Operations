@@ -17,13 +17,13 @@ Project Structure
 Sparse_matrix/
 │── code/
 │   ├── src/
-│   │   ├── main.py  # Entry point of the program
+│   │   ├── my_sparse_matrix.py  # Entry point of the program
 
 │── sample_inputs/
-│   ├── matrixfile1.txt  # Sample input matrix
-│   ├── easy_sample_04_1.txt  # Another sample input matrix
-│── output/
-│   ├── result.txt  # File where the output matrix is stored
+│   ├── matrix1.txt  # Sample input matrix
+│   ├── matrix2.txt # Another sample input matrix
+│
+│── result.txt  # File where the output matrix is stored
 │── README.md  # Project documentation
 Installation & Requirements
 This project requires Python 3.7+.
