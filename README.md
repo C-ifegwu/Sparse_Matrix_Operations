@@ -64,6 +64,4 @@ Choose operation:
 2. Subtraction
 3. Multiplication
 Enter your choice (1/2/3): 1
-✅ Output saved to output/result.txt
-Contents of output/result.txt:
-
+✅ Output saved toFinally_the result.txt
