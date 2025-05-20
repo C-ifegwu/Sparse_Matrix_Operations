@@ -29,7 +29,7 @@ Installation & Requirements
 This project requires Python 3.7+.
 
 1️⃣ Clone the Repository
-https://github.com/Seyiranky/Data-Structure-.git
+https://github.com/C-ifegwu/Stress_matrix.git
 cd sparse-matrix/code/src
 2️⃣ Run the Program
 python main.py
