@@ -32,7 +32,7 @@ This project requires Python 3.7+.
 https://github.com/C-ifegwu/Stress_matrix.git
 cd sparse-matrix/code/src
 2️⃣ Run the Program
-python main.py
+python my_sparse_matrix.py
 How to Use the Program
 **Run **`` and enter the file paths for two matrices.
 Choose an operation:
